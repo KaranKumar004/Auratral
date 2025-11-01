@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Auratral/static/css/main.91647691.css",
+    "main.js": "/Auratral/static/js/main.9fcb4a1e.js",
+    "index.html": "/Auratral/index.html",
+    "main.91647691.css.map": "/Auratral/static/css/main.91647691.css.map",
+    "main.9fcb4a1e.js.map": "/Auratral/static/js/main.9fcb4a1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91647691.css",
+    "static/js/main.9fcb4a1e.js"
+  ]
+}
