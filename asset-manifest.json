@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Auratral/static/css/main.e40cc829.css",
-    "main.js": "/Auratral/static/js/main.4af532b6.js",
+    "main.css": "/Auratral/static/css/main.3b09b842.css",
+    "main.js": "/Auratral/static/js/main.28e8f7fc.js",
     "index.html": "/Auratral/index.html",
-    "main.e40cc829.css.map": "/Auratral/static/css/main.e40cc829.css.map",
-    "main.4af532b6.js.map": "/Auratral/static/js/main.4af532b6.js.map"
+    "main.3b09b842.css.map": "/Auratral/static/css/main.3b09b842.css.map",
+    "main.28e8f7fc.js.map": "/Auratral/static/js/main.28e8f7fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.e40cc829.css",
-    "static/js/main.4af532b6.js"
+    "static/css/main.3b09b842.css",
+    "static/js/main.28e8f7fc.js"
   ]
 }
